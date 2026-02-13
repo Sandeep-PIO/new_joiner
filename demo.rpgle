@@ -12,7 +12,7 @@
 
       num += 1;
 
-     enddo;
+     enddo; // end of the loop 
 
    *inlr = *on ;
 
